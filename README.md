@@ -6,6 +6,8 @@ This project provides tools to create AWS Lambda layers using a combination of a
 
 Before running the script, ensure you have the following installed on your system:
 
+ clone this repo to an Ec2 or cloud9 where you have access to create an Lambda Layer IAM permissions 
+ 
 - Python 3.x
 - `pip`
 - `virtualenv`
