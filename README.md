@@ -17,3 +17,9 @@ If `virtualenv` is not installed, you can install it using pip:
 
 ```bash
 pip install virtualenv
+
+### Steps to create Lambda Layers
+Update the requiremnts.txt file to create required lambda layer packages .
+
+```bash
+sh run_me_to_generate_aws_lambda_layers.sh
