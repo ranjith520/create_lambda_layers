@@ -1,0 +1,10 @@
+langchain
+langchain-google-genai
+langchain-google-vertexai
+gemini-python==0.2.1
+google-auth==2.6.6
+google-ai-generativelanguage
+google-auth-oauthlib==0.5.1
+requests
+websocket
+websocket-client
